@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Setup (SAR)
+Exec=/home/oscar/download
+Comment=Sunshine and Rainbows Setup Wizard
+Terminal=false
+Icon=/home/oscar/SAR/exec/icon.jpeg
+Type=Application
